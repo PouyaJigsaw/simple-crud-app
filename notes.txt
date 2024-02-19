@@ -1,0 +1,5 @@
+
+
+1) When you try to update a product, why not do it via name not id?
+
+2) how to query on this mongodb DATABASE? A: (yep, it's language dependent, and json stuff... not sql?)
